@@ -1,3 +1,5 @@
+I extend my sincere gratitude to CodeBasics.io for generously providing the dataset and meticulously guiding through each step in creating an exceptional and illuminating dashboard to analyze the hospitality dataset. Their comprehensive support and detailed explanations were invaluable in gaining insights and honing my skills in data analysis and visualization.
+
 # Data Analytics Portfolio Project - Power BI
 
 ## Overview
