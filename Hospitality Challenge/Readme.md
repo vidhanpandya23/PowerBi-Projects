@@ -4,7 +4,7 @@ I extend my sincere gratitude to CodeBasics.io for generously providing the data
 
 ## Overview
 
-Welcome to my Data Analytics Portfolio Project on Power BI! This project focuses on the hospitality industry, leveraging Power BI to analyze and visualize key performance metrics for informed decision-making. I have incorporated data from multiple CSV files, including dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, and fact_bookings.
+Welcome to my Data Analytics Portfolio Project on Power BI! This project focuses on the hospitality industry, leveraging Power BI to analyze and visualize key performance metrics for informed decision-making. 
 
 ## Project Highlights
 
