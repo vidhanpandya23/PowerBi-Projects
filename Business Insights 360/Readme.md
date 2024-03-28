@@ -5,7 +5,7 @@ AtliQ Hardware has been experiencing rapid growth lately. To outperform their co
 
 I worked on this project by following the Codebasics Data Analytics Bootcamp 2.0 Course, Link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
 
-[Live Report Link]()
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiODk3ZjNhYzktZjc3Ni00OTMzLTgxMmUtNTlhZDUzNzY1ODRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionc36a9016c74d86179413)
 
 ## Tools Used
 - SQL
