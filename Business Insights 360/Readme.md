@@ -3,9 +3,9 @@
 ## Project Overview
 AtliQ Hardware has been experiencing rapid growth lately. To outperform their competitors and make smarter decisions, they've chosen to introduce PowerBi data analytics for the first time in their company. This project aims to address stakeholder inquiries across various areas such as finance, sales, marketing, and supply chain management.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
+I worked on this project by following the Codebasics Data Analytics Bootcamp 2.0 Course, Link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)
 
-Live Report Link
+[Live Report Link]()
 
 ## Tools Used
 - SQL
@@ -123,4 +123,4 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive View](https://github.com/vidhanpandya23/PowerBi-Projects/assets/150880909/d1ccdfc1-d3ba-432f-a285-8d25b7f93c52)
 
 ## Project Outcome
-By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+This report enables decisions to be made using data and helps answer numerous "why" questions depending on the circumstances.
