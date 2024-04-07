@@ -29,3 +29,8 @@ Welcome to my Data Analytics Portfolio Project on Power BI! This project focuses
 - **Data Source:** CSV files (dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, fact_bookings)
   
 - **Tools Used:** Power BI, Microsoft Excel
+
+## Dashboard Overview
+![Hospitality Dashboard Preview](https://github.com/vidhanpandya23/PowerBi-Projects/assets/150880909/ec845855-77b9-4165-8cc8-13cdf9e47b18)
+
+
